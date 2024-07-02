@@ -72,4 +72,10 @@ The map offers a visualization of how the electoral results of the MORENA coalit
 
 ---
 
+## Note
+
+If you want to run the R script for yourself, make sure you have downloaded all files in the **`ShapeFile`** folder. Shapefiles are composed of several files with the same base name but different extensions (`.shp`, `.shx`, `.dbf`, etc.). So, you must have all of them in your computer before you open the `SECCION.shp` file.
+
+---
+
 
