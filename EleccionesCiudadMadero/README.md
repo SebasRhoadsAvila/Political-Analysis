@@ -12,7 +12,7 @@ The data is presented in a series of maps, graphs, and tables to provide a compr
 
 The map provides a visualization of how victories were distributed between MORENA-PT and PAN across different electoral sections. Dark blue areas indicate sections where PAN had a significant advantage, while dark red areas show sections where MORENA-PT had a considerable advantage. Light blue and pink areas indicate sections where the differences were smaller.
 
-![Image](image_url_1)
+![Image](EleccionesCiudadMadero/Images/Imagen1.png)
 
 ---
 
@@ -20,7 +20,7 @@ The map provides a visualization of how victories were distributed between MOREN
 
 The graphs show the distribution of the percentage difference in votes by electoral section between the winner and the second place in the 2021 elections, exclusively in sections where the winner was the MORENA-PT coalition. The histogram indicates that most electoral sections have vote differences between 10% and 20%. The graph on the right reveals that the maximum density is around 12%, suggesting this is the most frequent margin of victory.
 
-![Image](image_url_2)
+![Image](EleccionesCiudadMadero/Images/Imagen2.png)
 
 ---
 
@@ -28,7 +28,7 @@ The graphs show the distribution of the percentage difference in votes by electo
 
 The table presents statistics of the total votes and their respective percentages for the parties involved in the 2021 elections. The statistics used are the minimum, first quartile, median, mean, third quartile, maximum, and standard error.
 
-![Image](image_url_3)
+![Image](EleccionesCiudadMadero/Images/Imagen3.png)
 
 ---
 
@@ -36,7 +36,7 @@ The table presents statistics of the total votes and their respective percentage
 
 The map visualizes the distribution of victories between the Sigamos Haciendo Historia (SHH) coalition and the Fuerza y Corazón por México (FCM) coalition across different electoral sections in 2024. Dark blue areas indicate sections where FCM had a significant advantage, while dark red areas show sections where SHH had a considerable advantage. Light blue and pink areas indicate sections where the differences were smaller. Compared to 2021, the 2024 electoral preferences were more extreme, with darker colors more prevalent.
 
-![Image](image_url_4)
+![Image](EleccionesCiudadMadero/Images/Imagen4.png)
 
 ---
 
@@ -44,7 +44,7 @@ The map visualizes the distribution of victories between the Sigamos Haciendo Hi
 
 The graphs show the distribution of the percentage difference in votes by electoral section between the winner and the second place in the 2024 elections, exclusively in sections where the winner was the SHH coalition. The histogram reveals that vote differences are more dispersed compared to the 2021 elections, with several frequency peaks in the intervals of 5% to 35%, with the 20% interval being the most frequent. The graph on the right shows a maximum density around 20%, indicating this is the most frequent margin of victory in 2024.
 
-![Image](image_url_5)
+![Image](EleccionesCiudadMadero/Images/imagen5.png)
 
 ---
 
@@ -52,7 +52,7 @@ The graphs show the distribution of the percentage difference in votes by electo
 
 The table presents statistics of the total votes and their respective percentages for the parties involved in the 2024 elections. The statistics used are the minimum, first quartile, median, mean, third quartile, maximum, and standard error.
 
-![Image](image_url_6)
+![Image](EleccionesCiudadMadero/Images/Imagen6.png)
 
 ---
 
@@ -60,7 +60,7 @@ The table presents statistics of the total votes and their respective percentage
 
 The map offers a visualization of how the electoral results of the MORENA coalitions changed between 2021 and 2024 in percentage terms. In all sections, MORENA obtained a higher percentage of votes, regardless of whether they won or not.
 
-![Image](image_url_7)
+![Image](EleccionesCiudadMadero/Images/Imagen7.png)
 
 ---
 
@@ -68,7 +68,7 @@ The map offers a visualization of how the electoral results of the MORENA coalit
 
 The map offers a visualization of how the electoral results of the MORENA coalitions changed between 2021 and 2024 in absolute terms. Despite the coalition obtaining fewer votes in some sections, their percentage of votes increased in all sections (as observed in the previous graph).
 
-![Image](image_url_8)
+![Image](EleccionesCiudadMadero/Images/Imagen8.png)
 
 ---
 
