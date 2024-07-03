@@ -2,7 +2,9 @@
 
 ### Project Overview
 
-This project analyzes the electoral data for the coalitions MORENA-PT and PAN in 2021, and the coalitions Sigamos Haciendo Historia (SHH) and Fuerza y Corazón por México (FCM) in 2024. In 2024, the SHH coalition included MORENA, PVEM, and PT, while the FCM coalition included PAN and PRI. The analysis focuses on MORENA as the most dominant party in both years. The analysis also includes a comparison of the voting patterns and changes in the electoral results of the MORENA coalitions between the two election years. 
+This project analyzes the electoral data for the coalitions MORENA-PT and PAN in 2021, and the coalitions Sigamos Haciendo Historia (SHH) and Fuerza y Corazón por México (FCM) in 2024. 
+
+In 2024, the SHH coalition included MORENA, PVEM, and PT, while the FCM coalition included PAN and PRI. The analysis focuses on MORENA as the most dominant party in both years. The analysis also includes a comparison of the voting patterns and changes in the electoral results of the MORENA coalitions between the two election years. 
 
 The data is presented in a series of maps, graphs, and tables to provide a comprehensive view of the electoral landscape and trends.
 
